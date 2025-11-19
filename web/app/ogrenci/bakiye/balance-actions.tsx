@@ -65,6 +65,7 @@ export default function BalanceActions({ userId }: { userId: string }) {
       </div>
       <p className="text-xs text-muted-foreground">
         * Demo modunda bakiye anında yüklenir.
+      </p>
     </form>
   );
 }
